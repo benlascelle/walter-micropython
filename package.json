@@ -7,7 +7,7 @@
         ["walter_modem/modem.py", "github:QuickSpot/walter-micropython/walter_modem/modem.py"],
         ["walter_modem/queue.py", "github:QuickSpot/walter-micropython/walter_modem/queue.py"],
         ["walter_modem/utils.py", "github:QuickSpot/walter-micropython/walter_modem/utils.py"],
-        ["walter_modem/mixins/_default_pdp.py", "github:QuickSpot/walter-micropython/walter_modem/mixins/_default_pdp.py"],
+        ["walter_modem/mixins/_default_pdp.py", "github:QuickSpot/walter-micropython/walter_modem/mixins/default_pdp.py"],
         ["walter_modem/mixins/_default_power_saving.py", "github:QuickSpot/walter-micropython/walter_modem/mixins/_default_power_saving.py"],
         ["walter_modem/mixins/_default_sim_network.py", "github:QuickSpot/walter-micropython/walter_modem/mixins/_default_sim_network.py"],
         ["walter_modem/mixins/coap.py", "github:QuickSpot/walter-micropython/walter_modem/mixins/coap.py"],
